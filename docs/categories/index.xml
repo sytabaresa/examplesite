@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Introduction</title>
-    <link>https://example.glud.org/examplesite/categories/</link>
+    <link>https://example.glud.org/categories/</link>
     <description>Recent content in Categories on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.glud.org/examplesite/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.glud.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

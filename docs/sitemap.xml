@@ -3,99 +3,99 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.glud.org/examplesite/projects/photography/</loc>
+    <loc>https://example.glud.org/projects/photography/</loc>
     <lastmod>2017-11-13T12:21:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/projects/design/</loc>
+    <loc>https://example.glud.org/projects/design/</loc>
     <lastmod>2017-11-13T12:21:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/projects/writing/</loc>
+    <loc>https://example.glud.org/projects/writing/</loc>
     <lastmod>2017-11-13T12:21:11-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/blog/hipster-ipsum/</loc>
+    <loc>https://example.glud.org/blog/hipster-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/blog/startup-ipsum/</loc>
+    <loc>https://example.glud.org/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/blog/coffee-ipsum/</loc>
+    <loc>https://example.glud.org/blog/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/contact/</loc>
+    <loc>https://example.glud.org/contact/</loc>
     <lastmod>2017-03-09T13:23:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/about/</loc>
+    <loc>https://example.glud.org/about/</loc>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/blog/</loc>
+    <loc>https://example.glud.org/blog/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/categories/</loc>
+    <loc>https://example.glud.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/tags/code/</loc>
+    <loc>https://example.glud.org/tags/code/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/tags/coffee/</loc>
+    <loc>https://example.glud.org/tags/coffee/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/tags/images/</loc>
+    <loc>https://example.glud.org/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/</loc>
+    <loc>https://example.glud.org/</loc>
     <lastmod>2017-11-13T12:21:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/tags/ipsum/</loc>
+    <loc>https://example.glud.org/tags/ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/projects/</loc>
+    <loc>https://example.glud.org/projects/</loc>
     <lastmod>2017-11-13T12:21:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/tags/</loc>
+    <loc>https://example.glud.org/tags/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.glud.org/examplesite/tags/words/</loc>
+    <loc>https://example.glud.org/tags/words/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <priority>0</priority>
   </url>
