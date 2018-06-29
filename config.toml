@@ -1,4 +1,4 @@
-baseURL                     = "https://sytabaresa.github.io/examplesite"            # Your domain name. Must end with "/"
+baseURL                     = "https://example.glud.org/examplesite"            # Your domain name. Must end with "/"
 languageCode                = "en-us"                           # languageCode
 title                       = "Introduction"                    # Site title
 theme                       = "introduction"
